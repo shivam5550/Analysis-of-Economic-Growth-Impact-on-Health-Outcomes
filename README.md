@@ -5,6 +5,6 @@ analysis, and modelling. This leads to a better knowledge of how economical fact
 
 Ultimately, this research endeavor aims to expand our understanding of the interplay between economic determinants and health outcomes. Through rigorous analysis and empirical investigation, it seeks to inform evidence-based policy-making and interventions aimed at promoting equitable health outcomes across diverse demographic groups.
 
-##Dataset
+## Dataset
 The data used for the research is retrieved from reputable source, the World Bank’s World Development Indicators (WDI) database. Using the R programming language, a powerful tool for statistical analysis, the data was extracted using the WDI library package. The WDI package and R’s functionality automated the data
 retrieval process, streamlining the collection of the economic and health indicators. The data collected for this research spans from the years 2015 to 2018, thereby adding depth and making more impactful through the analysis of multi-year data trends
